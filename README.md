@@ -8,16 +8,6 @@
   An intelligent electronics shopping experience combining modern web technologies, real-time inventory management, AI-driven product discovery, and predictive customer analytics.
 </p>
 
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-Vector_Search-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-RAG_&_Tools-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-</p>
 
 ---
 
