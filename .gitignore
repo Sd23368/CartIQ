@@ -1,0 +1,26 @@
+# deps
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# env & secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# build
+.next/
+dist/
+build/
+
+# ml artifacts (kept small in repo; large ones ignored)
+*.joblib.big
+
+# os
+.DS_Store
+Thumbs.db
+desktop.ini
